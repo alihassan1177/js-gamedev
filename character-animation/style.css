@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  align-items: flex-start;
+}
+
+canvas {
+  border: 1px solid black;
+  width: 500px;
+  height: 500px;
+}
+
+img{
+  width: 100%;
+}
